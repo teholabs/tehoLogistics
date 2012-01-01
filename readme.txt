@@ -4,6 +4,15 @@ teho Labs/B. A. Bryce 2012
 This program is released under the MIT Licence:
 http://en.wikipedia.org/wiki/MIT_License
 
+The project depends on "pdfbox-app.jar" being located in the working directory.
+
+PDFbox (http://pdfbox.apache.org/) is an Apache licensed project that allows PDF->text conversion.  
+
+tehoLogistics also requires inventory.csv and lists.csv also (see bin examples).
+
+
+
+
 It currently makes use of the octopart API to resolve Digikey partnumbers
 
 Use of the Octopart API requires the following statement:
@@ -16,6 +25,9 @@ This was not used until sometime after Nov. 2011.
 The sourcing function to pick the best price currently (0.10) does not consider shipping overhead.
 
 This function will be added in a future release.
+
+
+
 
 Change Log:
 
