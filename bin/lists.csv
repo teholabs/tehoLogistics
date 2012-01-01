@@ -1,0 +1,14 @@
+Design A,
+Mountain Button Switch,1
+LM3S3N26,1
+16 MHz Cystal ABM2,1
+"2x4 0.1"" female TH socket",1
+0603 330 ohm 5%,2
+0603 9.1K ohm 1%,10
+0603 4.7uF cermaic 10V,1
+0603 18pF ceramic 50V,2
+0603 0.1uF ceramic 25V,10
+endList,
+Design B,
+LM3S9B90,1
+endList,
